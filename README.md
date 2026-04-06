@@ -17,6 +17,7 @@ Este repositorio contiene los apuntes de clase correspondientes a la Unidad II, 
 - [2.4 Fractales](#24-fractales)
 
 - [2.5 Uso y creación de fuentes de texto](#25-uso-y-creación-de-fuentes-de-texto)
+- [Bibliografía](#bibliografía)
 ---
 2.1. Transformación bidimensional.
 ----
@@ -157,6 +158,24 @@ Si bien el término "fractal" es reciente, los objetos hoy denominados fractales
 ----
 USO Y CREACIÓN DE FUENTES DE TEXTO También llamada tipografía, es una definición de los distintos caracteres que se pueden usar en un documento; de este modo, las distintas fuentes presentarán las letras con un dibujo o tipo de letra diferente. A cada símbolo individual se le llama caracter o procesador de textos de un tipo y tamaño determinados. Los archivos de tipografía son independientes de las aplicaciones que los usan, que normalmente se instalan en un determinado directorio del sistema operativo para que estén disponibles en todos los programas que los necesiten. Los más comunes son: -TTF (TrueType Font) -PostScript Type 1 -OTF (OpenType Font) Es un lenguaje de descripción de páginas (en inglés: Page Description Language, PDL), utilizado en muchas impresoras y, de manera usual, como formato de transporte de archivos gráficos en talleres de impresión profesional. OTF (Open Type Font) Es un formato de tipos de letra escalables para computadora; su arquitectura esta basada en la de su antecesor (True Type), cuya estructura básica conserva y la cual complementa con tablas de datos que permiten incorporar a un tipo o familia tipográfica funciones tipográficas y lingüísticas avanzadas. CONCLUSIÓN La tipografía depende de varias cosas como el color y la forma para poder reiterar el significado que se está tratando de transmitir; forma una parte importante de un mensaje de comunicación, esto incluye las formas, el color, la retórica de nuestro tipo de letra al escribir un mensaje
 
+-----
+## Bibliografía
+-----
+Foley, J. D., van Dam, A., Feiner, S. K., & Hughes, J. F. (1996). Computer graphics: Principles and practice (2nd ed.). Addison-Wesley.
+
+Hearn, D., & Baker, M. P. (2011). Computer graphics with OpenGL (4th ed.). Pearson.
+
+Rogers, D. F. (2001). An introduction to NURBS: With historical perspective. Morgan Kaufmann.
+
+Piegl, L., & Tiller, W. (1997). The NURBS book (2nd ed.). Springer.
+
+Farin, G. (2002). Curves and surfaces for CAGD: A practical guide (5th ed.). Morgan Kaufmann.
+
+de Casteljau, P. (1986). Outillages méthodes calcul. En G. Farin (Ed.), Geometric modeling: Algorithms and new trends (pp. 7–22). SIAM.
+
+Mandelbrot, B. B. (1983). The fractal geometry of nature. W. H. Freeman.
+
+Barnsley, M. F. (1988). Fractals everywhere. Academic Press
 
 
 
